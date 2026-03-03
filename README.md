@@ -52,8 +52,8 @@ Backend architecture for a care management system.
 ---
 
 ## 📫 Connect With Me
-- GitHub: https://github.com/YourUsername
-- LinkedIn: (ضع رابطك هنا)
+- GitHub: https://github.com/AnasSibakhi
+- LinkedIn: https://www.linkedin.com/in/anas-sibakhi-1473693a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
 ---
 
