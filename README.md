@@ -1,16 +1,16 @@
-## Hi there 👋
+# Laravel Course Platform
 
-<!--
-**AnasSibakhi/AnasSibakhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A backend system built with Laravel for managing online courses.
 
-Here are some ideas to get you started:
+## Features
+- User Authentication
+- Courses Management
+- YouTube Video Links Integration
+- Quizzes System
+- Admin Dashboard
+- Clean MVC Architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- Laravel
+- MySQL
+- RESTful API
