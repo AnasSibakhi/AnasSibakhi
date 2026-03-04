@@ -1,60 +1,94 @@
 <h1 align="center">Hi 👋, I'm Anas Sibakhi</h1>
-<h3 align="center">Backend Developer | Laravel Specialist</h3>
+<h3 align="center">Backend Engineer | Laravel Specialist</h3>
+
+<p align="center">
+I build scalable backend systems, clean APIs, and structured database architectures.
+</p>
 
 ---
 
 ## 🚀 About Me
-I am a Backend Developer specialized in Laravel, focused on building scalable APIs and structured backend systems.  
-I care about clean architecture, performance, and writing maintainable code.
 
-- 🔭 Currently working on backend systems & RESTful APIs  
-- 🌱 Improving my knowledge in system design & AI integration  
-- 💡 Passionate about building real-world production-ready projects  
-- ⚡ Goal: Become a high-level backend engineer
+I’m a backend-focused software engineer specialized in Laravel and PHP.
+My goal is to design production-ready systems that are scalable, maintainable, and efficient.
+
+🔹 Strong understanding of MVC & clean architecture  
+🔹 RESTful API development  
+🔹 Database design & optimization  
+🔹 Role-Based Access Control (RBAC)  
+🔹 Performance-oriented backend development  
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Technical Skills
 
-**Backend**
-- Laravel
+### 💻 Programming & Markup Languages
 - PHP
-- REST APIs
+- HTML5
+- CSS3
+
+### ⚙ Backend Development
+- Laravel
+- RESTful APIs
 - MVC Architecture
+- Authentication Systems
+- Middleware & Authorization
+- API Integration
 
-**Database**
-- MySQL
+### 🗄 Database & Data Management
 - Database Design
+- MySQL
+- Query Optimization
 - Eloquent ORM
+- Relationships & Migrations
 
-**Tools**
+### 🧰 Tools & Workflow
 - Git & GitHub
 - Postman
 - Composer
+- Agile Basics
 
 ---
 
 ## 📂 Featured Projects
 
-### 🎓 Courses Platform
-A full backend system for managing courses, tracks, users, and quizzes.  
-- Authentication & Authorization  
-- Course & Video Management  
-- Quiz System  
-- Clean Admin Dashboard  
+### 🎓 Courses Management Platform
+A complete backend system including:
+- Tracks & Courses
+- YouTube video integration
+- Quiz system
+- Admin dashboard
+- User roles & permissions
+
+Built with scalability and clean structure in mind.
+
+---
 
 ### 🏥 Care System (In Progress)
-Backend architecture for a care management system.  
-- Role-based access  
-- Structured database  
-- Scalable system design  
+Backend architecture focused on:
+- Structured database schema
+- Secure role-based access
+- Expandable system foundation
+
+---
+
+## 🧠 Currently Learning & Improving
+
+- Advanced System Design
+- Scalable Application Architecture
+- AI Integration with Backend Systems
+- Performance Optimization
 
 ---
 
 ## 📫 Connect With Me
-- GitHub: https://github.com/AnasSibakhi
-- LinkedIn: https://www.linkedin.com/in/anas-sibakhi-1473693a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
+GitHub: https:[//github.com/YOUR_USERNAME](https://github.com/AnasSibakhi)  
+LinkedIn:https://www.linkedin.com/in/anas-sibakhi-
+1473693a1?
+utm_source=share&utm_campaign=share_via&u tm_content=profile&utm_medium=ios_app
 ---
 
-⭐ Always learning. Always building.
+## ⚡ Engineering Mindset
+
+Clean Code. Clear Structure. Scalable Systems.
